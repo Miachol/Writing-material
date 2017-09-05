@@ -1,0 +1,7 @@
+disease	origin	patient	gene	isoform	rnaposition	losstype
+AML	diagnosis	20-PARASV	FLT3	NM_004119	2000	n
+AML	diagnosis	20-PARASVfoo	FLT3	NM_004119	2100	n
+AML	diagnosis	20-PARASVbar	FLT3	NM_004119	2200	n
+AML	diagnosis	20-PARASV	FLT3	NM_004119	2000	c
+AML	diagnosis	20-PARASVfoo	FLT3	NM_004119	2100	c
+AML	diagnosis	20-PARASVbar	FLT3	NM_004119	2200	c
